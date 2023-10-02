@@ -10,7 +10,7 @@ Implement the following functionality:
 3. On button click: The values of the two input fields switch.
 
 */
-
+// Comment
 const firstInput = document.querySelector("[data-js=first-input]");
 const secondInput = document.querySelector("[data-js=second-input]");
 const button = document.querySelector("[data-js=button]");
